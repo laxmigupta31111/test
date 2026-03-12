@@ -15,7 +15,10 @@
 # 👌SS
 <p align ="center">
     <img src="imgs/p.png" width="45%"  height= "45%">
+    <img src="imgs/q.png" width="45%"  height= "45%">
 </p>
 
 -img
 ![alt text](image.png)
+
+![alt text](image-1.png)
